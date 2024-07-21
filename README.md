@@ -1,9 +1,4 @@
-**WhatsApp Caht Sentiment Analysis**
-Here's a README for your project "WhatsApp_Chat_Sentiment_Analysis":
-
----
-
-WhatsApp_Chat_Sentiment_Analysis
+**WhatsApp Caht Sentiment Analysis
 
 This project performs sentiment analysis on WhatsApp chat data, extracting and analyzing the sentiment of messages. The analysis includes calculating positive, negative, and neutral sentiment scores, as well as extracting emojis from the chat messages.
 
